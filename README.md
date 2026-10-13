@@ -167,7 +167,6 @@ Ultimately, **data can contribute to unfair decisions when it is unrepresentativ
 - pandas
 - NumPy
 - Matplotlib
-- Seaborn (if used in the notebook)
 
 ## Reproducibility
 
